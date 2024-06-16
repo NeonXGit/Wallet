@@ -1,0 +1,6 @@
+usr/local/bin/neonx-qt usr/bin
+share/pixmaps/neonx32.xpm usr/share/pixmaps
+share/pixmaps/neonx16.xpm usr/share/pixmaps
+share/pixmaps/neonx128.png usr/share/pixmaps
+debian/neonx-qt.desktop usr/share/applications
+debian/neonx-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/neonx_ar.ts \
+  qt/locale/neonx_bg.ts \
+  qt/locale/neonx_de.ts \
+  qt/locale/neonx_en.ts \
+  qt/locale/neonx_es.ts \
+  qt/locale/neonx_fi.ts \
+  qt/locale/neonx_fr.ts \
+  qt/locale/neonx_it.ts \
+  qt/locale/neonx_ja.ts \
+  qt/locale/neonx_ko.ts \
+  qt/locale/neonx_nl.ts \
+  qt/locale/neonx_pl.ts \
+  qt/locale/neonx_pt.ts \
+  qt/locale/neonx_ro.ts \
+  qt/locale/neonx_ru.ts \
+  qt/locale/neonx_sk.ts \
+  qt/locale/neonx_th.ts \
+  qt/locale/neonx_tr.ts \
+  qt/locale/neonx_vi.ts \
+  qt/locale/neonx_zh_CN.ts \
+  qt/locale/neonx_zh_TW.ts
