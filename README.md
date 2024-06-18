@@ -1,20 +1,20 @@
-🚧**Official links:**🚧
-
-Web-Site: https://neonxcoin.com/
-Block-Explorer: https://explorerneonx.com/
-GitHub: https://github.com/NeonXGit
-
-💳**Wallets:**💳
-
-Windows: https://github.com/NeonXGit/Wallet
-Linux: https://github.com/NeonXGit/Wallet
-
-👥**Community:**👥
-
-Discord: https://discord.gg/5YQyQtSYzW
-Twitter: https://x.com/NeonXcoin
-
-
+🚧**Official links:**🚧<br>
+<br>
+Web-Site: https://neonxcoin.com<br>
+Block-Explorer: https://explorerneonx.com/<br>
+GitHub: https://github.com/NeonXGit<br>
+<br>
+💳**Wallets:**💳<br>
+<br>
+Windows: https://github.com/NeonXGit/Wallet<br>
+Linux: https://github.com/NeonXGit/Wallet<br>
+<br>
+👥**Community:**👥<br>
+<br>
+Discord: https://discord.gg/5YQyQtSYzW<br>
+Twitter: https://x.com/NeonXcoin<br>
+<br>
+<br>
 What is NeonX?
 -------------
 
