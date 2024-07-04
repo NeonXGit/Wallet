@@ -1181,6 +1181,8 @@ CAmount GetMasternodePayment(int nHeight, CAmount blockValue, bool fV20Active)
     if (nHeight < nReallocActivationHeight) {
         // Block Reward Realocation is not activated yet, nothing to do
         return ret;
+     } else if (nHeight > 60000) {
+        return ret;
     }
 
     int nSuperblockCycle = Params().GetConsensus().nSuperblockCycle;
