@@ -1190,7 +1190,7 @@ CAmount GetMasternodePayment(int nHeight, CAmount blockValue, bool fV20Active)
     if (nHeight < nReallocStart) {
         // Activated but we have to wait for the next cycle to start realocation, nothing to do
         return ret;
-    } else if (nHeight > 70000) {
+    } else if (nHeight > 23000) {
         return ret;
     }
 
